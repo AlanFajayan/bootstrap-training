@@ -1,0 +1,26 @@
+{
+  "name": "bootstrap-training",
+  "version": "1.0.0",
+  "description": "Bootstrap 4 Essential Training",
+  "main": "index.js",
+  "scripts": {
+    "start": "node buildScripts/srcServer.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlanFajayan/bootstrap-training.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlanFajayan/bootstrap-training/issues"
+  },
+  "homepage": "https://github.com/AlanFajayan/bootstrap-training#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "jquery": "^3.2.1",
+    "popper.js": "^1.12.5",
+    "express": "4.14.0",
+    "open": "0.0.5"
+  }
+}
